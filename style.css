@@ -1,0 +1,68 @@
+/* body {
+    background-color: rgb(9, 194, 207);
+  } */
+
+  body {
+    background-color: rgb(250, 253, 253);
+  }
+
+.h1 {text-align: center;}
+.h2 {text-align: center;}
+.h3 {color:#fa381e}
+
+.college{
+  
+    border: 2px solid black;
+    outline: #fa381e solid 5px;
+    margin: 8px;
+    margin-bottom: 0px; 
+    margin-left: 50px; 
+    margin-right: 52px;
+    padding: 8px;
+    text-align: center;
+    
+}
+
+.subtext{
+ 
+    text-align: center;
+    font-size: 150%;
+    
+}
+
+*{
+margin: 0;
+padding: 0;
+}
+body{
+ 
+-webkit-background-size:cover;
+background-size:cover;
+background-position: center center;
+height: 100vh;
+}
+
+.text{
+    margin-top:150px;
+    text-align: center;
+    margin-left: 50px;
+    color:#0ec5f3;
+    font-family: poppins;
+
+}
+.subjects{
+ 
+    margin-top:20px  ;
+    text-align: center;
+    margin-left: auto;
+    font-weight: bold;
+    font-family: poppins;  
+}
+
+.assignments{
+    margin-left: 100px;
+    position: relative;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-size: 150% ;
+}
